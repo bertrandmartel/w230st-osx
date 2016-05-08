@@ -1,6 +1,6 @@
 # OS X El Capitan on W230ST
 
-Clover configuration for OS X El Capitan (10.11.4) for laptop Clevo W230ST
+Clover configuration for OS X El Capitan (10.11.4) on laptop Clevo W230ST
 
 To begin with Clover install check <a href="http://www.tonymacx86.com/threads/guide-booting-the-os-x-installer-on-laptops-with-clover.148093/">this link</a>
 
@@ -81,8 +81,6 @@ I didn't test GeForce GTX 765M since I cant disable IGPU from bios (all renderin
 * <a href="http://www.tonymacx86.com/threads/guide-intel-igpu-hdmi-dp-audio-sandy-ivy-haswell-broadwell.189495/">guide-intel-igpu-hdmi-dp-audio-sandy-ivy-haswell-broadwell</a>
 * <a href="http://forum.osxlatitude.com/index.php?/topic/1969-guide-for-enabling-vga-and-hdmi-in-intel-hd3000-gpu/">guide-for-enabling-vga-and-hdmi-in-intel-hd3000-gpu</a>
 * <a href="http://www.tonymacx86.com/threads/guide-booting-the-os-x-installer-on-laptops-with-clover.148093/">guide-booting-the-os-x-installer-on-laptops-with-clover</a>
-* <a href="http://www.macbreaker.com/2014/03/how-to-edit-your-own-dsdt-with-maciasl.html">how-to-edit-your-own-dsdt-with-maciasl</a>
-
 * https://github.com/toleda/wireless_half-mini
 * https://github.com/RehabMan/OS-X-Fake-PCI-ID
 * https://github.com/Piker-Alpha/AppleIntelFramebufferAzul.sh
